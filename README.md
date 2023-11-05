@@ -6,4 +6,5 @@ Our programm runs in O(m^2) time, given a graph with m edges as input. Details o
 
 ## Contributors
 Amine Iggidr
+
 Hugo Bouigeon
